@@ -7,7 +7,7 @@ use Collective\Html\HtmlBuilder as OriginalHtmlBuilder;
 use Contentify\Controllers\Widget;
 use Exception;
 use Input;
-use OpenGraph;
+use ChrisKonnertz\OpenGraph\OpenGraph;
 use Session;
 use URL;
 
