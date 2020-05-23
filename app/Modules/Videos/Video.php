@@ -4,7 +4,7 @@ namespace App\Modules\Videos;
 
 use BaseModel;
 use Comment;
-use OpenGraph;
+use ChrisKonnertz\OpenGraph\OpenGraph;
 use SoftDeletingTrait;
 
 /**
