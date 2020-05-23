@@ -6,7 +6,7 @@ use Contentify\Traits\ModelHandlerTrait;
 use Controller;
 use Exception;
 use ModelHandler;
-use OpenGraph;
+use ChrisKonnertz\OpenGraph\OpenGraph;
 use Request;
 use Sentinel;
 use Session;
